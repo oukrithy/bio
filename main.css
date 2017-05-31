@@ -1,0 +1,122 @@
+* {
+  box-sizing: border-box;
+  font-family: Arial, sans-serif;
+  line-height: 20px;
+  color: white;
+}
+
+.Sandro_footer {
+  height: 120px;
+  width: 33%;
+  float: left;
+  padding: 0 20px 10px 0px;
+  /*border: 2px solid black;*/
+  background-color: #4d586b;
+  color: white;
+}
+
+.image_footer {
+  clear: both;
+  width: 34%;
+  /*border: 2px solid black;*/
+  display: inline-block;
+  height: 120px;
+  background-color: #021638;
+}
+
+.image_footer img {
+  width: auto;
+  height: 100px;
+}
+
+.Rithy_footer {
+  float: right;
+  height: 120px;
+  color: white;
+  width: 33%;
+  padding: 0 20px 10px 0px;
+  /*border: 2px solid black;*/
+  background-image: url("http://lawncarevictoria.ca/wp-content/uploads/2013/06/seamlesstexture3_1200.jpg");
+  opacity: 0.8;
+}
+
+.Sandro {
+  height: 350px;
+  width: 50%;
+  float: left;
+  padding: 0 20px;
+  /*border: 2px solid black;*/
+  clear: both;
+  background-color: #4d586b;
+  color: white;
+}
+
+.Rithy {
+  height: 350px;
+  color: white;
+  width: 50%;
+  float: right;
+  padding: 0 20px;
+  /*border: 2px solid black;*/
+  background-image:url("http://lawncarevictoria.ca/wp-content/uploads/2013/06/seamlesstexture3_1200.jpg");
+  opacity: 0.8;
+}
+
+.both {
+  clear: both;
+  /*border: 2px solid black;*/
+  padding: 10px 0px 0px 20px;
+  height: 500px;
+  background-color: #2f3e59;
+
+}
+
+.images {
+  padding-left: 50px;
+}
+
+.logo {
+  width: 100%;
+  border: 2px solid red;
+  text-align: center;
+  padding: 10px;
+  margin-top: 100px;
+  margin-left: -10px;
+  background-color: white;
+}
+
+.logo img {
+  height: auto;
+  width: 24%;
+}
+
+.background {
+  background-color: yellow;
+}
+
+header {
+  width: 100%;
+  background-image: url("https://www.incimages.com/uploaded_files/image/1940x900/software-computer-code-1940x900_35196.jpg");
+  float: left;
+  background-size: cover;
+}
+
+h1 {
+  color: white;
+  text-align: center;
+  font-family: 'Cinzel', serif;
+  font-size: 40pt;
+}
+
+h2 {
+  text-align: center;
+}
+
+footer {
+  /*border: 2px solid black;*/
+  text-align: center;
+}
+footer ul {
+  padding-left: 0px;
+  list-style: none;
+}
